@@ -1,0 +1,9 @@
+$assets-base: "../../../dist" !default;
+
+@import '@tabler/core/src/scss/tabler';
+
+.navbar-dark {
+    background: #0C1B3B !important;
+}
+
+
